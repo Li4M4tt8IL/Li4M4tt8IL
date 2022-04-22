@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Li4M4tt8IL
-- 👀 Right now i am working on a private utility mod called LemonJuice
-- 🌱 I’m currently learning JAVA
 - 📫 You can reach me on discord: ThatsNotLiam#2303
 
 <!---
