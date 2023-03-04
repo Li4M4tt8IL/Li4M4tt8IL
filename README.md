@@ -1,4 +1,4 @@
-#Skills:
+# Skills:
  - JavaScript (Discord.js, React.js, Node.js, Express.js, etc.)
  - Java (SpringBoot, Spigot, Fabric)
  - HTML & CSS
