@@ -1,12 +1,20 @@
 # Skills:
  - JavaScript (Discord.js, React.js, Node.js, Express.js, etc.)
+ - TypeScript (Next)
  - Java (SpringBoot, Spigot, Fabric)
  - HTML & CSS
  - MySQL
  - Python (Discord.py)
  - C# (.NET)
 
-## My latest project (https://lemoncosmetics.pl/) is made with:
+## My latest project (https://lemoncosmetics.pl) is made with:
+- TypeScript (Next) - Frontend
+- Java (SpringBoot) - Backend
+- HTML & CSS
+- MySQL - Database
+- C# - Connecting everything to the game
+
+## My previous project (https://old.lemoncosmetics.pl/) is made with:
 - Java (SpringBoot) - Backend
 - JavaScript (React.js) - Frontend
 - HTML & CSS - Self explanatory
