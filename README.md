@@ -6,6 +6,8 @@
  - MySQL
  - Python (Discord.py)
  - C# (.NET)
+ - C++ (basic skills)
+ - C (basic skills)
 
 ## My latest project (https://lemoncosmetics.pl) is made with:
 - TypeScript (Next) - Frontend
