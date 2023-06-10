@@ -6,8 +6,8 @@
  - MySQL
  - Python (Discord.py)
  - C# (.NET)
- - C++ (Arduino)
- - C (ESP32)
+ - C++ (basic)
+ - C (ESP32, Arduino)
 
 ## My latest project (https://lemoncosmetics.pl) is made with:
 - TypeScript (Next) - Frontend
