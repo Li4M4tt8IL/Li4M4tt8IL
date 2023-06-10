@@ -23,7 +23,7 @@
 - MySQL - Handling data
 - C# - Connecting everything to the game
 
-### 📫 You can reach me on discord: ThatsNotLiam🐷#2303
+### 📫 You can reach me on discord: ThatsNotLiam🐷#2303 or thatsnotliam
 
 <!---
 Li4M4tt8IL/Li4M4tt8IL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
