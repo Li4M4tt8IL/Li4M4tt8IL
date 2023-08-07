@@ -9,18 +9,15 @@
  - C++ (basic)
  - C (ESP32, Arduino)
 
-## My latest project (https://lemoncosmetics.pl) is made with:
+## My latest project (https://tnl-portfolio.web.app/) is made with:
+- TypeScript (NextJS) - Frontend
+- HTML & CSS
+
+## My previous project (https://lemoncosmetics.pl) is made with:
 - TypeScript (Next) - Frontend
 - Java (SpringBoot) - Backend
 - HTML & CSS
 - MySQL - Database
-- C# - Connecting everything to the game
-
-## My previous project (https://old.lemoncosmetics.pl/) is made with:
-- Java (SpringBoot) - Backend
-- JavaScript (React.js) - Frontend
-- HTML & CSS - Self explanatory
-- MySQL - Handling data
 - C# - Connecting everything to the game
 
 ### 📫 You can reach me on discord: ThatsNotLiam🐷#2303 or thatsnotliam
