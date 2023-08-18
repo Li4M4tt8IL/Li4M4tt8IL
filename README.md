@@ -9,7 +9,7 @@
  - C++ (basic)
  - C (ESP32, Arduino)
 
-## My latest project (https://tnl-portfolio.web.app/) is made with:
+## My latest project (https://www.thatsnotliam.pl) is made with:
 - TypeScript (NextJS) - Frontend
 - HTML & CSS
 
