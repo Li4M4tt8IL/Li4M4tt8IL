@@ -1,6 +1,6 @@
 # Skills:
  - JavaScript (Discord.js, React.js, Node.js, Express.js, etc.)
- - TypeScript (Next)
+ - TypeScript (Next.js)
  - Java (SpringBoot, Spigot, Fabric)
  - HTML & CSS
  - MySQL
@@ -10,11 +10,11 @@
  - C (ESP32, Arduino)
 
 ## My latest project (https://www.thatsnotliam.pl) is made with:
-- TypeScript (NextJS) - Frontend
+- TypeScript (Next.js) - Frontend
 - HTML & CSS
 
 ## My previous project (https://lemoncosmetics.pl) is made with:
-- TypeScript (Next) - Frontend
+- TypeScript (Next.js) - Frontend
 - Java (SpringBoot) - Backend
 - HTML & CSS
 - MySQL - Database
