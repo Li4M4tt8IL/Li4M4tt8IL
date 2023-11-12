@@ -9,16 +9,13 @@
  - C++ (basic)
  - C (ESP32, Arduino)
 
-## My latest project (https://www.thatsnotliam.pl) is made with:
-- TypeScript (Next.js) - Frontend
+## My latest project (https://www.optimodo.co.uk) is made with:
+- TypeScript (React.JS, FramerMotion) - Frontend
 - HTML & CSS
 
-## My previous project (https://lemoncosmetics.pl) is made with:
-- TypeScript (Next.js) - Frontend
-- Java (SpringBoot) - Backend
+## My previous project (https://www.thatsnotliam.pl) is made with:
+- TypeScript (Next.js, FramerMotion) - Frontend
 - HTML & CSS
-- MySQL - Database
-- C# - Connecting everything to the game
 
 ### 📫 You can reach me on discord: ThatsNotLiam🐷#2303 or thatsnotliam
 
